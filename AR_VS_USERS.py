@@ -3,7 +3,7 @@ from ar_fn_2 import *
 a=['1','2','3']         
 b=['4','5','6']         
 c=['7','8','9']         
-
+j=0
 i=0
 print a,'\n',b,'\n',c,'\n'
 turn=input("wanna play first then press 0")                            
